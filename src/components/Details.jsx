@@ -32,7 +32,7 @@ export const Details = () => {
                         В день свадьбы мы будем немного заняты, поэтому, в случае возникновения вопросов,
                         вы всегда можете обратиться за помощью к нашему свадебному координатору: 
                     </Typography>
-                    <Button variant="contained" size="small" href="tel:79307802053" sx={{display: "flex", justifyContent: "center", borderRadius: "2em", backgroundColor: "#45616F", margin: "1em 4em", fontFamily: "'Poiret One', cursive"}}>
+                    <Button variant="contained" size="small" href="tel:+79307802053" sx={{display: "flex", justifyContent: "center", borderRadius: "2em", backgroundColor: "#45616F", margin: "1em 4em", fontFamily: "'Poiret One', cursive"}}>
                         Юлия: +7 (953) 747-96-80
                     </Button>
                 </Box>
