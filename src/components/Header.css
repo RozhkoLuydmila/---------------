@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+
+.Card {
+  border: 1px solid black;
+  border-radius: 2rem;
+  margin: 1rem; 
+}
+
+.Title {
+  text-align: center;
+  padding: 15px 10px;
+  font-family: 'Caveat', cursive;
+}
+
+.Subtitle {
+  border: 1px solid black;
+  display: flex;
+  justify-content: center;
+  font-size: 24px;
+  margin: 10px -100px;
+  background-color: white;
+  font-family: 'Poiret One', cursive;
+}
+
+.Content {
+  font-family: 'Poiret One', cursive;
+  text-align: center;
+}
+
+.ticker {
+    position: relative;
+    overflow: hidden;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+  }
+  
+  .ticker__wrapper {
+    display: flex;
+  }
+  
+  .ticker__item {
+    font-size: 15px;
+    font-weight: 500;
+    white-space: nowrap;
+    flex-shrink: 0;
+    padding: 0 30px;
+    animation: ticker 4s linear infinite;
+    font-family: 'Poiret One', cursive;
+  }
+  
+  @keyframes ticker {
+    0% {
+      transform: translateZ(0);
+    }
+    to {
+      transform: translate3d(-100%, 0, 0);
+    }
+  }

@@ -1,0 +1,8 @@
+<svg width="56" height="52" viewBox="0 0 56 52" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M4 24H52V48C52 48.5304 51.7893 49.0391 51.4142 49.4142C51.0391 49.7893 50.5304 50 50 50H6C5.46957 50 4.96086 49.7893 4.58579 49.4142C4.21071 49.0391 4 48.5304 4 48V24Z" stroke="#8EA3B4" stroke-width="4" stroke-miterlimit="10"/>
+<path d="M4 14H52C52.5304 14 53.0391 14.2107 53.4142 14.5858C53.7893 14.9609 54 15.4696 54 16V24H2V16C2 15.4696 2.21071 14.9609 2.58579 14.5858C2.96086 14.2107 3.46957 14 4 14Z" stroke="#8EA3B4" stroke-width="4" stroke-miterlimit="10"/>
+<path d="M24 14V50" stroke="#8EA3B4" stroke-width="4" stroke-linejoin="round"/>
+<path d="M32 14V50" stroke="#8EA3B4" stroke-width="4" stroke-linejoin="round"/>
+<path d="M48 8C48 9.5913 47.3679 11.1174 46.2426 12.2426C45.1174 13.3679 43.5913 14 42 14H28C28 10 34 2 42 2C43.5913 2 45.1174 2.63214 46.2426 3.75736C47.3679 4.88258 48 6.4087 48 8Z" stroke="#8EA3B4" stroke-width="4" stroke-miterlimit="10"/>
+<path d="M8 8C8 9.5913 8.63214 11.1174 9.75736 12.2426C10.8826 13.3679 12.4087 14 14 14H28C28 10 22 2 14 2C12.4087 2 10.8826 2.63214 9.75736 3.75736C8.63214 4.88258 8 6.4087 8 8Z" stroke="#8EA3B4" stroke-width="4" stroke-miterlimit="10"/>
+</svg>
