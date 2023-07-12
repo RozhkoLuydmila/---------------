@@ -47,7 +47,7 @@ export const Details = () => {
                         />
                     </Box>
                     <Box sx={{margin: "1rem"}}>
-                        <a href="tel:+79307802053" style={{backgroundColor: "#45616F", borderRadius: "2em", padding: "10px", textDecoration: "none", color: "#ffffff", fontFamily: "'Poiret One', cursive"}}>
+                        <a href="tel:+79537479680" style={{backgroundColor: "#45616F", borderRadius: "2em", padding: "10px", textDecoration: "none", color: "#ffffff", fontFamily: "'Poiret One', cursive"}}>
                             Юлия: +7 (953) 747-96-80
                         </a>
                     </Box>
