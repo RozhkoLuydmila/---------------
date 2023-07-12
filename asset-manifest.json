@@ -1,18 +1,28 @@
 {
   "files": {
     "main.css": "/WeddingBrashchins/static/css/main.eab533b0.css",
-    "main.js": "/WeddingBrashchins/static/js/main.34840acb.js",
+    "main.js": "/WeddingBrashchins/static/js/main.018712b0.js",
     "static/media/title.png": "/WeddingBrashchins/static/media/title.c7ab8a3260f2fc412861.png",
-    "static/media/body3.png": "/WeddingBrashchins/static/media/body3.fbb32a9e854bf945189c.png",
+    "static/media/body1.png": "/WeddingBrashchins/static/media/body1.66b36ad96c9210852932.png",
     "static/media/body6.png": "/WeddingBrashchins/static/media/body6.8d9a4057c21f9114e1b1.png",
     "static/media/body7.jpg": "/WeddingBrashchins/static/media/body7.50faa7519dd66e167322.jpg",
+    "static/media/color11.jpg": "/WeddingBrashchins/static/media/color11.16425ed34ccc9616d3c4.jpg",
+    "static/media/color5.jpg": "/WeddingBrashchins/static/media/color5.4f6e22b38489a611647a.jpg",
+    "static/media/color3.jpg": "/WeddingBrashchins/static/media/color3.2ab13edb4814434968a8.jpg",
+    "static/media/koordinat.jpg": "/WeddingBrashchins/static/media/koordinat.4829254277a471809a40.jpg",
+    "static/media/color1.jpg": "/WeddingBrashchins/static/media/color1.efe67cb969d30a6c31c9.jpg",
+    "static/media/color2.jpg": "/WeddingBrashchins/static/media/color2.15c24b732a75bf41181e.jpg",
+    "static/media/color4.jpg": "/WeddingBrashchins/static/media/color4.d8408592d6650270246e.jpg",
+    "static/media/color6.jpg": "/WeddingBrashchins/static/media/color6.c3ede3c608fd2f709e9b.jpg",
+    "static/media/color8.jpg": "/WeddingBrashchins/static/media/color8.cb31dc3f187f32186594.jpg",
+    "static/media/color10.jpg": "/WeddingBrashchins/static/media/color10.4a0aed4d5b326800cd72.jpg",
     "static/media/PoiretOne-Regular.ttf": "/WeddingBrashchins/static/media/PoiretOne-Regular.9bf109e97f6294c6fe2b.ttf",
     "index.html": "/WeddingBrashchins/index.html",
     "main.eab533b0.css.map": "/WeddingBrashchins/static/css/main.eab533b0.css.map",
-    "main.34840acb.js.map": "/WeddingBrashchins/static/js/main.34840acb.js.map"
+    "main.018712b0.js.map": "/WeddingBrashchins/static/js/main.018712b0.js.map"
   },
   "entrypoints": [
     "static/css/main.eab533b0.css",
-    "static/js/main.34840acb.js"
+    "static/js/main.018712b0.js"
   ]
 }
