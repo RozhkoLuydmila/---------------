@@ -4,7 +4,7 @@ import Box from '@mui/material/Box';
 import CardMedia from '@mui/material/CardMedia';
 import CardContent from '@mui/material/CardContent';
 import Typography from '@mui/material/Typography';
-import body3 from '../img/body3.png';
+import body1 from '../img/body1.png';
 import body6 from '../img/body6.png';
 
 export const Date = () => {
@@ -14,7 +14,7 @@ export const Date = () => {
             <Grid item xs={6}>
               <CardMedia
                     component="img"
-                    src={body3}
+                    src={body1}
                     alt="Link"
                 />
             </Grid>

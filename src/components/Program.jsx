@@ -16,7 +16,7 @@ export const Program = () => {
                 <Divider color="black" />
                 <List >
                     <Typography variant="h5" color="text.secondary" mt={2} sx={{fontFamily: "'Poiret One', cursive"}}>
-                        15:00 - Встреча гостей
+                        15:30 - Встреча гостей
                     </Typography>
                     <Typography variant="h5" color="text.secondary" mt={2} sx={{fontFamily: "'Poiret One', cursive"}}>
                         16:00 - Торжественная регистрация
