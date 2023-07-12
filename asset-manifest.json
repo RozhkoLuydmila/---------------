@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/WeddingBrashchins/static/css/main.eab533b0.css",
-    "main.js": "/WeddingBrashchins/static/js/main.786fc760.js",
+    "main.js": "/WeddingBrashchins/static/js/main.b34505a4.js",
     "static/media/title.png": "/WeddingBrashchins/static/media/title.c7ab8a3260f2fc412861.png",
     "static/media/body1.png": "/WeddingBrashchins/static/media/body1.66b36ad96c9210852932.png",
     "static/media/body6.png": "/WeddingBrashchins/static/media/body6.8d9a4057c21f9114e1b1.png",
@@ -19,10 +19,10 @@
     "static/media/PoiretOne-Regular.ttf": "/WeddingBrashchins/static/media/PoiretOne-Regular.9bf109e97f6294c6fe2b.ttf",
     "index.html": "/WeddingBrashchins/index.html",
     "main.eab533b0.css.map": "/WeddingBrashchins/static/css/main.eab533b0.css.map",
-    "main.786fc760.js.map": "/WeddingBrashchins/static/js/main.786fc760.js.map"
+    "main.b34505a4.js.map": "/WeddingBrashchins/static/js/main.b34505a4.js.map"
   },
   "entrypoints": [
     "static/css/main.eab533b0.css",
-    "static/js/main.786fc760.js"
+    "static/js/main.b34505a4.js"
   ]
 }
