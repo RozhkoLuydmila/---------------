@@ -5,23 +5,17 @@ import CardMedia from '@mui/material/CardMedia';
 import Box from '@mui/material/Box';
 import Typography from '@mui/material/Typography';
 import { CardActionArea } from '@mui/material';
-import { motion } from "framer-motion";
 import title from "../img/title.png";
 import FavoriteBorderIcon from '@mui/icons-material/FavoriteBorder';
-
 import "./Header.css";
+import WOW from 'wow.js'
 
-const textAnimation = {
-    hidden: {
-      x: -100,
-      opacity: 0,
-    },
-    visible: custom => ({
-        x: 0,
-        opacity: 1,
-        transition: { delay: custom * 0.2 }, 
-      }),
-  }
+const wow = new WOW({
+  boxClass: 'wow',
+  animateClass: 'animated',
+  offset: 0,
+  live: true
+});
 
 export const Header = () => {
     return(
