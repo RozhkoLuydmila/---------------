@@ -28,7 +28,7 @@ export const Details = () => {
                         которую мы откроем на ближайшем совместном празднике 
                     </Typography>
                     <Typography variant="body1" color="text.secondary" sx={{fontFamily: "'Poiret One', cursive", marginTop: "1rem"}}>
-                        Просим подтвердить свое присутствие в личном сообщении на это пригласительное письмо до 17.07.2023 
+                        Просим подтвердить свое присутствие в личном сообщении на это пригласительное письмо до 20.07.2023 
                     </Typography>
                     <Typography variant="body1" color="text.secondary" sx={{fontFamily: "'Poiret One', cursive", marginTop: "1rem"}}>
                         Для вашего удобства мы организовали трансфер, который доставит вас до места проведения торжества, а также отвезет обратно.
