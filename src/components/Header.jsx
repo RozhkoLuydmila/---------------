@@ -5,17 +5,9 @@ import CardMedia from '@mui/material/CardMedia';
 import Box from '@mui/material/Box';
 import Typography from '@mui/material/Typography';
 import { CardActionArea } from '@mui/material';
-import title from "../img/title.png";
+import title1 from "../img/title1.jpg";
 import FavoriteBorderIcon from '@mui/icons-material/FavoriteBorder';
 import "./Header.css";
-import WOW from 'wow.js'
-
-const wow = new WOW({
-  boxClass: 'wow',
-  animateClass: 'animated',
-  offset: 0,
-  live: true
-});
 
 export const Header = () => {
     return(
@@ -46,7 +38,7 @@ export const Header = () => {
                         style={{padding: "25px"}}>
                     <CardMedia
                         component="img"
-                        src={title}
+                        src={title1}
                         alt="Link"
                         style={{ borderTopRightRadius: "50rem", borderTopLeftRadius: "50rem"}}
                     />
