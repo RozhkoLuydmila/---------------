@@ -32,7 +32,12 @@
     position: relative;
     overflow: hidden;
     border-top: 1px solid black;
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid rgb(196, 190, 181);
+    border-bottom: 1px solid rgb(112, 171, 191);
+    border-bottom: 1px solid rgb(50, 116, 150);
+    border-bottom: 1px solid rgb(28, 102, 109);
+    border-bottom: 1px solid rgb(73, 92, 105);
+    border-bottom: 1px solid rgb(144, 120, 104);
   }
   
   .ticker__wrapper {
