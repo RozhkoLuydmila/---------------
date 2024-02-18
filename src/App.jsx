@@ -10,14 +10,14 @@ import Container from '@mui/material/Container';
 
 export const App = () => {
   return (
-    <Container maxWidth="sm">
+    <>
       <Header/>
       <Date/>
       <Program/>
       <DressCode/>
       <Details/>
       <FormQuest/>
-    </Container>
+    </>
   );
 }
 

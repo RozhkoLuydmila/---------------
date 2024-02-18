@@ -11,7 +11,7 @@ export const Timer = () => {
   let interval;
 
   const startTimer = () => {
-    const countDownDate = new Date("September 2,2023").getTime();
+    const countDownDate = new Date("March 16,2024").getTime();
 
     interval = setInterval(() => {
       const now = new Date().getTime();

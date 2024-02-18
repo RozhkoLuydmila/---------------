@@ -1,6 +1,6 @@
 /* @import url('./fonts/Caveat-VariableFont_wght.ttf');
 @import url('./fonts/PoiretOne-Regular.ttf'); */
 
-/* body {
-    font-family: 'PoiretOne-Regular';
-} */
+body {
+    font-weight: 600;
+}
